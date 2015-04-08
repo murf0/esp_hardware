@@ -34,3 +34,17 @@ eagle.epf
 *.info
 
 *.eps
+
+*.zip
+# Gerber Files
+*.GML
+*.GBP
+*.GTS
+*.GTP
+*.GTO
+*.GTL
+*.GBS
+*.GBO
+*.GBL
+*.TXT
+
